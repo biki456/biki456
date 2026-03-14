@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Bikita Hait
 
-<!--
-**biki456/biki456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate  
+💻 Aspiring Python Full Stack Developer  
 
-Here are some ideas to get you started:
+I enjoy building web applications using:
+HTML | CSS | JavaScript | Python | Django | MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+- Student Management System (CRUD)
+- 2D Breakout Game
+- Ecommerce Website
+
+## Currently Learning
+- Django
+- Backend Development
+- API Integration
