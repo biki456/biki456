@@ -20,7 +20,7 @@ Passionate about building responsive and scalable web applications using Python 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode,wordpress" />
 </p>
 
 ---
