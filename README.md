@@ -43,7 +43,7 @@ A professional **Digital Agency landing page** built with WordPress and Elemento
 [🔗 View Repository](https://github.com/biki456/bh-webcraft)
 
 ### 🔗 GitHub Connector
-A **JavaScript-based web application** that fetches and displays GitHub repositories for any user using the **GitHub REST API**. Supports dynamic user search and real-time repo listing.
+A **Python-based web application** that uses the GitHub REST API to fetch and display repositories of any GitHub user, featuring dynamic user search and real-time repository updates.
 [🔗 View Repository](https://github.com/biki456/github-connector)
 
 ---
